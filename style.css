@@ -1,0 +1,138 @@
+body{
+	margin:0px;
+	padding:0px;
+	background-image:url(images/istockphoto-1239526742-170667a.jpg);
+	background-size:cover;
+	font-family:tahoma;
+	
+}
+
+
+.header{
+	background:white;
+	overflow:hidden;	
+}
+.header:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.header-left{
+	float:left;
+}
+.header-right{
+	float:right;
+}
+.header-right a{
+	margin-left:10px;	
+}
+    /* upper css */
+.upper-area{
+	float:left;
+}	
+.upper-area ul li{
+	list-style:none;
+	float:left;
+	
+}
+.upper-area ul li a{
+	text-decoration:none;
+	
+	font-size:30px;
+	color:#fff;
+	margin:15px;
+}	
+.upper-area ul{
+	
+	margin:0px;
+}	
+.upper-area ul :hover{
+	color:#FF5733;
+	
+}
+.detail input{
+	display:block;
+	padding:5px;
+	
+	
+}
+.detail{
+	margin-top:25px;
+}
+.login label{
+	font-size:20px;
+	font-weight:bold;
+}
+
+.login{
+	
+	margin-left:680px;
+	
+	
+}
+.login-area input{
+	background:transparent;
+	margin-bottom:5px;
+	margin-top:10px;
+	font-size:15px;
+	font-weight:bold;
+	border:2px solid red;
+}	
+
+.signup{
+	float:right;
+	width:500px;
+		
+	padding:3px;
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+	margin-top:0px;
+	
+}	
+
+	
+
+.signup input{
+	background:transparent;
+	margin-bottom:15px;
+	margin-top:10px;
+	font-size:15px;
+	font-weight:bold;
+	border:3px solid red;
+}
+.gender input{
+	background:transparent;
+	
+	
+}	
+
+.detail input{
+	width:100%;
+	text-align:center;
+
+}	
+
+ .div label{
+	 margin-right:35px;
+ }
+	
+.text{
+	margin-top:180px;
+	margin-left:50px;
+	width:600px;
+	color:yellow;
+	font-size:25px
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
